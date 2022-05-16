@@ -1,2 +1,2 @@
 # CursoWebModernoCompleto
-urso Desenvolvimento Web Moderno com JavaScript!
+Curso Desenvolvimento Web Moderno com JavaScript!
