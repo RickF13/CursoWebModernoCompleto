@@ -1,5 +1,7 @@
 # Custom
-teste/*
+teste/
+.vscode/
+node_modules/
 
 # Logs
 logs
