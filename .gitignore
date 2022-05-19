@@ -1,6 +1,9 @@
 # Custom
 teste/*
+<<<<<<< HEAD
 /teste
+=======
+>>>>>>> 51e2f51796ba00e5d2e500ade9ba31bc99a254ca
 
 # Logs
 logs
@@ -105,4 +108,8 @@ dist
 .dynamodb/
 
 # TernJS port file
+<<<<<<< HEAD
 .tern-port
+=======
+.tern-port
+>>>>>>> 51e2f51796ba00e5d2e500ade9ba31bc99a254ca
